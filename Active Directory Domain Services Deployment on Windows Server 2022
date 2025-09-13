@@ -35,9 +35,15 @@
 
 ## 2. **Implementation Steps**
 
-- Step 1: [Description + Screenshot]
-- Step 2: [Description + Screenshot]
-- Step 3: [Description + Screenshot]
+- Step 1: Step 1: Prepare the Server [Description + Screenshot]
+
+- Step 2: Install the AD DS Role [Description + Screenshot]
+- Step 3: Promote the Server to a Domain Controller [Description + Screenshot]
+- Step 4: Configure Domain Controller Options [Descprition and Screenshot]
+- Step 5 : Additional Options [Description + Screenshot]
+- Step 6: Prerequisites Check [Description + Screenshot]
+- Step 7: Complete Installation and Reboot[Description + Screenshot]
+- Step 8: Verify Installation [Description + Screenshot]
     
     *(Write steps like a guide — this proves you actually did it.)*
     
